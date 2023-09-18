@@ -1,0 +1,104 @@
+#anchordecoration{
+    text-decoration: none;
+}
+#registrationform {
+    background-color: black;
+    color: white;
+}
+
+.nav-item :hover{
+    
+    font-weight: bold; 
+}
+
+.translate-caption:hover{
+    font-family: cursive;
+}
+
+
+
+.middle-heading:hover{
+    font-weight: bolder;
+    text-shadow: 2px 2px gray;
+
+}
+
+.card:hover{
+    font-weight: bold;
+    font-family: cursive;
+    border-radius:25px;
+    box-shadow: 4px 7px grey;
+    }
+
+    .jumbotron:hover{
+        border-radius: 50px;
+        background-color:#212529;
+        box-shadow: 6px 9px grey;
+    }
+    .accordion:hover{
+
+        box-shadow: 4px 7px grey;
+        
+    }
+    button{
+        border-radius: 10px;
+
+    }
+
+
+
+    /* attended-seminar */
+
+    .attended-color{
+    background-color:  #c8d8e4;;
+}
+
+    .attended-semiwork:hover{
+
+        font-weight: bolder;
+        text-shadow: 2px 2px gray;
+    
+    }
+
+    .setwidth {
+        width: 30vw;
+    }
+    
+    .setwidth-table2 {
+        width: 50vw;
+    }
+
+    .table-container {
+        margin-left: 9vh;
+        margin-right: 9vh;
+    }
+
+    .setwidth:hover{
+
+        font-weight: bold;
+        font-family: cursive;
+        background-color:darkgreen;
+        color: white;
+
+
+    }
+    .setwidth-table2:hover{
+        font-weight: bold;
+        font-family: cursive;
+        background-color: blue;
+        color: white;
+
+    }
+
+
+
+    /* about-us */
+
+    .image-shadow:hover{
+        box-shadow: 4px 7px grey;
+    }
+
+    .aboutus-hover:hover{
+        font-weight: bold;
+        font-family: cursive;
+    }
